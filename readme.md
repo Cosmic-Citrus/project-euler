@@ -6,7 +6,7 @@ This is code to solve problems given by [Project Euler](https://projecteuler.net
 
 Project Euler is a compilation of math problems, most of which are intended to be solved by a computer program. These math problems are designed to be challenging; aside from keen insight, one is expected to implement a clever algorithm that is optimized for efficiency. 
 
-Problem 949 - posted on June 7, 2025 - is the [most recent problem]([Recent Problems - Project Euler](https://projecteuler.net/recent)]) added to the [Project Euler Archives](https://projecteuler.net/archives). I have solved a handful of these, and intend to solve more in the future.
+Problem 949 - posted on June 7, 2025 - is the [most recent problem](https://projecteuler.net/recent) added to the [Project Euler Archives](https://projecteuler.net/archives). I have solved a handful of these, and intend to solve more in the future.
 
 
 
