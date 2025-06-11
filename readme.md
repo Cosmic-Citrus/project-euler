@@ -1,6 +1,6 @@
 # Repo:    project-euler
 
-This is code to solve problems given by [Project Euler](https://projecteuler.net/).
+The purpose of this code is to solve problems given by [Project Euler](https://projecteuler.net/).
 
 ## Description
 
