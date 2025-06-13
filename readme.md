@@ -4,11 +4,24 @@ The purpose of this code is to solve problems given by [Project Euler](https://p
 
 ## Description
 
-Project Euler is a compilation of math problems, most of which are intended to be solved by a computer program. These math problems are designed to be challenging; aside from keen insight, one is expected to implement a clever algorithm that is optimized for efficiency. 
+Project Euler is a compilation of math problems, most of which are intended to be solved by a computer program. These math problems are designed to be challenging; aside from keen insight, one is expected to implement a clever algorithm that is optimized for efficiency. The problems are designed to increase in difficulty as one progresses through them.
 
 Problem 949 - posted on June 7, 2025 - is the [most recent problem](https://projecteuler.net/recent) added to the [Project Euler Archives](https://projecteuler.net/archives) as of June 9, 2025. I have solved a handful of these problems and intend to solve more in the future.
 
+### Problems Completed
 
+* 001
+* 002
+* 003
+* 004
+* 005
+* 006
+* 007
+* 009
+* 010
+* 014
+* 015
+* 019
 
 ## Getting Started
 
